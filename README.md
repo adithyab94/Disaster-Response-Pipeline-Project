@@ -2,7 +2,7 @@
 
 ## Project Motivation
 
-This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages as a part of Udacity DSND program
+This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages 
 
 ## File Description
 
